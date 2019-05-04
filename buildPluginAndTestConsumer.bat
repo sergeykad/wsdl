@@ -1,0 +1,1 @@
+cd plugin && ..\gradlew clean build uA && cd ..\consumer && ..\gradlew clean build --stacktrace --build-cache && cd ..

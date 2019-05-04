@@ -1,5 +1,5 @@
 apply plugin: 'idea'
 
-task wrapper(type:Wrapper){
-    gradleVersion = '2.13'
+task wrapper(type: Wrapper) {
+    gradleVersion = '4.0.2'
 }
